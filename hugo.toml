@@ -3,6 +3,9 @@ languageCode = "en-au"
 title = "Deus Maximus"
 theme = "PaperMod"
 
+[author]
+  name = "Deus Maximus"
+
 [params]
   defaultTheme = "dark"
   homeInfoParams = {Title = "Deus Maximus", Content = "IT, automation, and things I figured out."}
