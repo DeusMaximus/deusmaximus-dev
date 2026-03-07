@@ -1,0 +1,14 @@
+baseURL = "https://deusmaximus.dev/"
+languageCode = "en-au"
+title = "Deus Maximus"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
+  homeInfoParams = {Title = "Deus Maximus", Content = "IT, automation, and things I figured out."}
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
